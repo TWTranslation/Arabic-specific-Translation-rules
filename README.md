@@ -1,3 +1,14 @@
 # Arabic-specific-Translation-rules
-Arabic-specific rules for the TW translation by OSCSA
-ترجمة الجلوسري
+
+This is an Arabic-specific Translation rules for the Turing Way in [Crowdin]()
+# قواعد خاصة بترجمة اللغة العربية
+
+
+## ترجمة قائمة المصطلحات (Glossary)
+
+## علامات الترقيم
+
+## الأسماء الأجنبية
+
+## الفهرس والمصادر
+
